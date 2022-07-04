@@ -1,0 +1,13 @@
+Model selection wine quality
+
+1. Linear regression
+RMSE=0.315
+
+2. Descision tree regressor
+RMSE=0.7 
+
+3.Random Forest Regressor
+RMSE=0.22
+
+
+I CHOOSE Random Forest Regressor BECAUSE 0.22 RMSE IS BEST AMONG THEM
